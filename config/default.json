@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://fung123:fung123@cluster0-1ckuh.mongodb.net/expensetracker?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
